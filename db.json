@@ -1,6 +1,6 @@
   
 {"users":
-[{"id":1,"email":"george.bluth@reqres.in","first_name":"Keijo","last_name":"Kumpula","avatar":"https://www.pexels.com/fi-fi/kuva/asento-elegantti-glamour-henkilo-415829/"},
+[{"id":1,"email":"george.bluth@reqres.in","first_name":"Keijo","last_name":"Kumpula","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"},
 {"id":2,"email":"janet.weaver@reqres.in","first_name":"Jaana","last_name":"Majava","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"},
 {"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Koistinen","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},
 {"id":4,"email":"eve.holt@reqres.in","first_name":"Eveliina","last_name":"Holli","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"},
