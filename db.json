@@ -5,4 +5,5 @@
 {"id":3,"email":"emma.wong@reqres.in","first_name":"Emma","last_name":"Koistinen","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg"},
 {"id":4,"email":"eve.holt@reqres.in","first_name":"Eveliina","last_name":"Holli","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg"},
 {"id":5,"email":"charles.morris@reqres.in","first_name":"Nico","last_name":"Koski","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg"},
-{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tiina","last_name":"Ramstein","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"}]}
+{"id":6,"email":"tracey.ramos@reqres.in","first_name":"Tiina","last_name":"Ramstein","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"}],
+ "ad":{"company":"StatusCode Weekly","url":"http://statuscode.org/","text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."}}
